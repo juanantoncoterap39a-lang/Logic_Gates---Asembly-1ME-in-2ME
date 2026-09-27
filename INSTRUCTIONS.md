@@ -23,14 +23,14 @@ Simulate the assembly and verify the operation of the following integrated circu
 
 | **Gates** | **Imagen** |
 |-----------|------------|
-| **7400** → NAME?  | ![NAME?](imagen_xor.png) |
-| **7402** → NAME?   | ![NAME?](imagen_or.png) |
-| **7404** → NAME?  | ![NAME?](imagen_and.png) |
-| **7405** → NAME? | ![NAME?](imagen_not.png) |
-| **7408** → NAME?  | ![NAME?](imagen_nor.png) |
-| **7432** → NAME? | ![NAME?](imagen_nand.png) |
-| **7486** → NAME?  | ![NAME?](imagen_not.png) |
-| **4082** → NAME?  | ![NAME?](imagen_and.png) |
+| **7400** → NAND | ![7400 NAND](./7400%20NAND%20-%20JCOTERA.jpg) |
+| **7402** → NOR | ![7402 NOR](./7402%20NOR%20-%20JCOTERA.jpg) |
+| **7404** → NOT | ![7404 NOT](./7404%20NOT%20JCOTERA.jpg) |
+| **7405** → NOT Open Collector | No disponible en el simulador |
+| **7408** → AND | ![7408 AND](./7408%20AND%20-%20JCOTERA.jpg) |
+| **7432** → OR | ![7432 OR](./7432%20OR%20-%20JCOTERA.jpg) |
+| **7486** → XOR | ![7486 XOR](./7486%20XOR%20-%20JCOTERA.jpg) |
+| **4082** → AND 4 entradas | No disponible en el simulador |
 
 
 ---
